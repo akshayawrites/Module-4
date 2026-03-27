@@ -28,16 +28,18 @@ To write a Python program to take the radius from the user and find the area of 
 ### PROGRAM
 
 ```
-
-
-
+class saveetha:
+    def slot(self,r):
+        area=3.1416*r*r
+        print(f"Area of circle: {area:.2f}")
+r=float(input())
+obj=saveetha()
+obj.slot(r)
 ```
 
 ### OUTPUT
-
-
-
+<img width="1184" height="240" alt="image" src="https://github.com/user-attachments/assets/374ebc8d-d8f5-4387-b9a0-37ec1cb8909e" />
 ### RESULT
-
+Therefore, the output is the example to write a Python program to take the radius from the user and find the area of a circle using the class name umbrella and function name rain.
 
 
